@@ -80,10 +80,11 @@ TALKIDS는 언어 교류를 촉진하고 기존의 제약조건을 극복하는 
 
 ### Frontend
 
+<div style="display:flex;align-items:row">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-
+</div>
 
 ### **Backend**
 
