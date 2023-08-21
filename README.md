@@ -71,6 +71,8 @@ TALKIDS는 언어 교류를 촉진하고 기존의 제약조건을 극복하는 
 | --- | --- |
 |<img src="https://github.com/LWC421/talkids/assets/61939201/42e3a83d-51af-4a7b-a459-2e9de4ffbddb" width="800px"/>|<img src="https://github.com/LWC421/talkids/assets/61939201/041c86f4-d400-45b0-b258-8cdb2f658d09" width="800px"/>|
 
+[화상회의기능](https://youtu.be/snwouXY9Zlk)
+
 <br>  
 
 
