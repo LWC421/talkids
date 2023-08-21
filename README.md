@@ -1,7 +1,7 @@
 # README
 
 <div align="center">
-<img src="/uploads/6f14ff0bbf3b6baf60140cbc2c6f6ff7/로고.png" width="600px" />
+<img src="https://github.com/LWC421/talkids/assets/61939201/b19f1d34-5ae3-4bc7-a330-631ec1da45e8" width="600px" />
 </div>
 
 <br>  
@@ -55,21 +55,21 @@ TALKIDS는 언어 교류를 촉진하고 기존의 제약조건을 극복하는 
 
 |그룹페이지|로그인 후 메인페이지|
 | --- | --- |
-|<img src="/uploads/99da41bc9455efc9fc0d28eb2695f6c9/그룹페이지.gif" width="800px"/>|<img src="/uploads/6024422308a2018c4f4997c29b4f4d99/로그인_후_메인.gif" width="800px"/>|
+|<img src="https://github.com/LWC421/talkids/assets/61939201/d4013ca5-08e2-4565-a4e0-3af03758a9b9" width="800px"/>|<img src="https://github.com/LWC421/talkids/assets/61939201/c074534f-41f7-4d9c-a759-9eccebd4b0b1" width="800px"/>|
 
 
 |메인화면 레벨1|메인화면 레벨2|
 | --- | --- |
-|<img src="/uploads/33123e04f198663c59f8f95967818c3f/메인_레벨1.gif" width="800px"/>|<img src="/uploads/b295f008b70d3b4469c949b1c1a5b245/메인_레벨2.gif" width="800px"/>|
+|<img src="https://github.com/LWC421/talkids/assets/61939201/b8ba0165-adbd-4618-a091-12b19e996d02" width="800px"/>|<img src="https://github.com/LWC421/talkids/assets/61939201/52e154fd-ff5b-4cab-8dbc-adf08dbfdd40" width="800px"/>|
 
 |메인화면 레벨3|번역 및 사전|
 | --- | --- |
-|<img src="/uploads/f90a8933deb2aaefa4e6ec646be75058/메인_레벨3.gif" width="800px"/>|<img src="/uploads/3e70a74b2de78f33731c9fc439ddba99/번역__사전.gif" width="800px"/>|
+|<img src="https://github.com/LWC421/talkids/assets/61939201/1897c3b3-27c8-4a9c-b4f9-567ca8c5e9eb" width="800px"/>|<img src="https://github.com/LWC421/talkids/assets/61939201/647e7fe5-7274-4ae4-8dd0-e4799d97686b" width="800px"/>|
 
 
 |팔로우 기능|학생 매칭 기능|
 | --- | --- |
-|<img src="/uploads/e12bf7813e525ae133ca5730b2e7edaf/팔로우_기능.gif" width="800px"/>|<img src="/uploads/851480ea4bb4b5f91ff9c92a0166aa21/학생_매칭_기능.gif" width="800px"/>|
+|<img src="https://github.com/LWC421/talkids/assets/61939201/42e3a83d-51af-4a7b-a459-2e9de4ffbddb" width="800px"/>|<img src="https://github.com/LWC421/talkids/assets/61939201/041c86f4-d400-45b0-b258-8cdb2f658d09" width="800px"/>|
 
 <br>  
 
@@ -114,14 +114,14 @@ TALKIDS는 언어 교류를 촉진하고 기존의 제약조건을 극복하는 
   
 ## 📊 ERD
 
-<img src="/uploads/206e8e09d9e7b41addfb9885a0bf4b71/ERDCloud.png" width="700px"/>  <br>  
+<img src="https://github.com/LWC421/talkids/assets/61939201/1ad3da3e-21c6-4fd9-961d-b93d82d722d1" width="700px"/>  <br>  
 
 <br>  
  
   
 ## 📄 아키텍처 설계도
 
-<img src="/uploads/cef1a59d22bdecf3a9a008fe44973570/시스템_구조도.png" width="700px"/>  <br>  
+<img src="https://github.com/LWC421/talkids/assets/61939201/06ee5649-6e94-410a-a449-0438cb06b15a" width="700px"/>  <br>  
 
 <br>  
 
